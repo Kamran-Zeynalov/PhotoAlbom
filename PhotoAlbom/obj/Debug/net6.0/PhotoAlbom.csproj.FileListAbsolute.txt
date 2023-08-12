@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\bin\Debug\net6.0\PhotoAlbom.exe
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\bin\Debug\net6.0\PhotoAlbom.deps.json
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\bin\Debug\net6.0\PhotoAlbom.runtimeconfig.json
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\bin\Debug\net6.0\PhotoAlbom.dll
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\bin\Debug\net6.0\PhotoAlbom.pdb
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.dll
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\refint\PhotoAlbom.dll
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.pdb
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\PhotoAlbom.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\PhotoAlbom\PhotoAlbom\obj\Debug\net6.0\ref\PhotoAlbom.dll
